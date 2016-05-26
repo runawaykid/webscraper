@@ -1,2 +1,2 @@
 # webscraper
-# My first programme to scrap websites!
+# Programme to scrap websites
