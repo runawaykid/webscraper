@@ -1,4 +1,3 @@
-# mapIt.py
 # Open map of address in browser
 
 import webbrowser, sys, pyperclip
@@ -10,5 +9,3 @@ else:
 print address
 
 webbrowser.open('https://www.google.com/maps/place/' + address)
-
-#end
