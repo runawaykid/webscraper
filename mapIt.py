@@ -1,4 +1,5 @@
 # Open map of address in browser
+# test
 
 import webbrowser, sys, pyperclip
 if len(sys.argv) > 1:
